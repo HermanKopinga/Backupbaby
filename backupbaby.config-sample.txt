@@ -1,0 +1,13 @@
+backupbabyuser=Enter your username here
+backupbabypass=Enter your password here
+backupbabypath=/Users/herman/Documents
+backupbabylogdir=~herman/Library/Logs/Backupbaby
+backupbabybandwith=200
+backupbabysmtp=Your SMTP server.
+backupbabyfrom=backupbaby@grin.sambalbij.nl
+backupbabyto=Your e-mail address.
+backupbabysmtpuser=Enter SMTP username here
+backupbabysmtppass=Enter SMTP password here
+#=========
+backupbabyhost=charm.hermankopinga.nl
+backupbabycc=backupbabyadmin@grin.sambalbij.nl
